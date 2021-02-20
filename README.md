@@ -1,4 +1,4 @@
-# json-pasing
+# json-parsing
 
 ### Navigates user through the given .json file.
 
