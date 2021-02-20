@@ -4,8 +4,8 @@
 
 #### Explanation
 - If user enters a key, he/she will get its value.
-- If the value of the given key is also an object, then object's kets will be displayed to the user and he/she will be able to chhose one out of them
-- If the value of the given key is a list, then its length will be displayed and the user will be able to enter the index of list's item that he/she wants to get
+- If the value of the given key is also an object, then object's keys will be displayed to the user and he/she will be able to choose one out of them
+- If the value of the given key is a list, then its length will be displayed and the user will be able to enter the index of list's item that he/she wants to get.<br>
 **NOTE: the indexing of the list starts from 1**
 
 #### Example
